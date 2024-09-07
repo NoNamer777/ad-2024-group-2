@@ -25,7 +25,7 @@ CREATE TABLE Retailer_Site (
    `city`                  VARCHAR(40),
    `region`                VARCHAR(50),
    `postal_code`           VARCHAR(10),
-   `country_code`          INT NOT NULL,
+   `country_code`          BIT NOT NULL,
    FOREIGN KEY (`retailer_code`)    REFERENCES Retailer(`retailer_code`),
    FOREIGN KEY (`country_code`)     REFERENCES Country(`country_code`)
 );
