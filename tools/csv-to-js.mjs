@@ -1,6 +1,6 @@
 import { readFile, writeFile } from 'fs/promises';
 
-const tableName = 'Retailer_Site';
+const tableName = 'Order_Header';
 
 /**
  * @param {string} line
@@ -27,7 +27,7 @@ function formatLine(line) {
 
     for (const part of parts) {
         if (Number.isNaN(Number(part))) {
-            formattedParts = [...formattedParts, `'${part.replace(`'`, `''`).replaceAll('"', '')}'`];
+            formattedParts = [...formattedParts, `'${part.replaceAll(`'`, `''`).replaceAll('"', '')}'`];
         } else if (part.length === 0) {
             formattedParts = [...formattedParts, 'NULL'];
         } else {
@@ -43,7 +43,7 @@ async function main() {
     /** @type {string[]} */
     let columns;
 
-    const csvContents = await readFile(`assets/data/csv/${tableName.toUpperCase()}.csv`, { encoding: 'utf8' });
+    const csvContents = await readFile(`../assets/data/csv/${tableName.toUpperCase()}.csv`, { encoding: 'utf8' });
     const lines = csvContents.split('\n').filter(line => line.length > 0);
 
     for (let idx = 0; idx < lines.length; idx++) {
@@ -58,7 +58,7 @@ async function main() {
 
         scriptContents += idx === lines.length - 1 ? ';\n' : ',\n';
     }
-    await writeFile(`assets/data/sql/insert_${tableName.toLowerCase()}_data.sql`, scriptContents);
+    await writeFile(`../assets/data/sql/insert_${tableName.toLowerCase()}_data.sql`, scriptContents);
 }
 
 await main();
