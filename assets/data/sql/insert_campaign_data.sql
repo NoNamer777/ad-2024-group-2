@@ -1,4 +1,4 @@
-INSERT INTO `Campaign` (`pr_number`, `product_number`, `description`) VALUES
+INSERT INTO `Campaign`(`pr_number`, `product_number`, `discount`) VALUES
 	(1, 20, 0.5),
 	(1, 42, 0.2),
 	(1, 48, 0.2),
