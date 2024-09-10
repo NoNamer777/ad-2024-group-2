@@ -1,4 +1,4 @@
-# 02_H-SE-AD-23-24_DB
+# 02_H-SE-AD-24-25_DB
 
 This repository contains the code of Group 02, which partakes in the Advanced Databases course for the part-time HBO-ICT study at the Haagse Hogeschool of year 2024-2025.
 
