@@ -1,0 +1,21 @@
+WITH SalesPerStaff AS (
+    SELECT 
+        ss.SALES_STAFF_CODE,
+        ss.FIRST_NAME,
+        ss.LAST_NAME,
+        sb.SALES_BRANCH_CODE,
+        SUM(od.QUANTITY * od.UNIT_PRICE) AS TotalSales,
+        AVG(od.QUANTITY * od.UNIT_PRICE) AS AvgOrderValue,
+        COUNT(DISTINCT oh.ORDER_NUMBER) AS TotalOrders
+    FROM dbo.SALES_STAFF ss
+    JOIN dbo.ORDER_HEADER oh ON ss.SALES_STAFF_CODE = oh.SALES_STAFF_CODE
+    JOIN dbo.ORDER_DETAILS od ON oh.ORDER_NUMBER = od.ORDER_NUMBER
+    JOIN dbo.SALES_BRANCH sb ON ss.SALES_BRANCH_CODE = sb.SALES_BRANCH_CODE
+    GROUP BY ss.SALES_STAFF_CODE, ss.FIRST_NAME, ss.LAST_NAME, sb.SALES_BRANCH_CODE
+)
+SELECT 
+    sps.*,
+    RANK() OVER (PARTITION BY SALES_BRANCH_CODE ORDER BY TotalSales DESC) AS BranchRank,
+    RANK() OVER (ORDER BY TotalSales DESC) AS OverallRank
+FROM SalesPerStaff sps
+ORDER BY OverallRank, TotalSales DESC;
