@@ -1,0 +1,26 @@
+services:
+    ms-sql-server:
+        image: mcr.microsoft.com/mssql/server:2022-latest
+        container_name: ms-sql-server
+        restart: unless-stopped
+        ports:
+            - '1433:1433'
+        environment:
+            ACCEPT_EULA: true
+            MSSQL_SA_PASSWORD: secure-password # TODO: Replace with your own password
+        volumes:
+            - ./data:/var/opt/mssql/data
+            - ./logs:/var/opt/mssql/log
+            - ./secrets:/var/opt/mssql/secrets
+    dbeaver:
+        image: dbeaver/cloudbeaver
+        container_name: dbeaver
+        restart: unless-stopped
+        depends_on:
+            - ms-sql-server
+        ports:
+            - '8978:8978'
+        volumes:
+            - ./workspace:/opt/cloudbeaver/workspace
+        extra_hosts:
+            - 'ms-sql-server:127.0.0.1'
