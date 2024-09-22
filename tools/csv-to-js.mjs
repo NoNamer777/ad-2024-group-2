@@ -1,6 +1,8 @@
 import { readFile, writeFile } from 'fs/promises';
 
-const tableName = 'Order_Header';
+const databaseName = 'master';
+const schemaName = 'db_great_outdoors';
+const tableName = 'Returned_Item';
 
 /**
  * @param {string} line
@@ -38,27 +40,49 @@ function formatLine(line) {
 }
 
 async function main() {
-    let scriptContents = `INSERT INTO \`${tableName}\``;
+    let insertStatement = `INSERT INTO ${databaseName}.${schemaName}.${tableName}`;
 
     /** @type {string[]} */
     let columns;
 
-    const csvContents = await readFile(`../assets/data/csv/${tableName.toUpperCase()}.csv`, { encoding: 'utf8' });
+    const csvContents = await readFile(`assets/data/csv/${tableName.toUpperCase()}.csv`, { encoding: 'utf8' });
     const lines = csvContents.split('\n').filter(line => line.length > 0);
+
+    /** @type {string[][]} */
+    let values = [];
+
+    /** @type {string[]} */
+    let inserts = [];
 
     for (let idx = 0; idx < lines.length; idx++) {
         const line = lines[idx];
 
         if (idx === 0) {
-            columns = line.toLowerCase().split(',').map(column => `\`${column}\``);
-            scriptContents += `(${columns.join(', ')}) VALUES\n`
+            columns = line.toLowerCase().split(',').map(column => `${column}`);
+            insertStatement += `(${columns.join(', ')}) VALUES\n`
             continue;
         }
-        scriptContents += `\t(${formatLine(line)})`;
+        inserts = [...inserts, `\t(${formatLine(line)})`];
 
-        scriptContents += idx === lines.length - 1 ? ';\n' : ',\n';
+        if (inserts.length === 1_000 || idx === lines.length - 1) {
+            values = [...values, [...inserts]];
+            inserts = [];
+        }
     }
-    await writeFile(`../assets/data/sql/insert_${tableName.toLowerCase()}_data.sql`, scriptContents);
+    let scriptContents = ``;
+
+    for (const groupedValues of values) {
+        scriptContents += `${insertStatement}`;
+
+        for (let idx = 0; idx < groupedValues.length; idx++) {
+            const value = groupedValues[idx];
+
+            scriptContents += `${value}`;
+            scriptContents += idx === groupedValues.length - 1 ? ';\n' : ',\n';
+        }
+    }
+
+    await writeFile(`assets/data/sql/insert_${tableName.toLowerCase()}_data.sql`, scriptContents);
 }
 
 await main();
