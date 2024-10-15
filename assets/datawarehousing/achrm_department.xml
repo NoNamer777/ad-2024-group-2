@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <dept_id>100</dept_id>
+  <dept_name>R &amp; D</dept_name>
+  <dept_head_id>501</dept_head_id>
+</row>
+<row>
+  <dept_id>200</dept_id>
+  <dept_name>Sales</dept_name>
+  <dept_head_id>902</dept_head_id>
+</row>
+<row>
+  <dept_id>300</dept_id>
+  <dept_name>Finance</dept_name>
+  <dept_head_id>1293</dept_head_id>
+</row>
+<row>
+  <dept_id>400</dept_id>
+  <dept_name>Marketing</dept_name>
+  <dept_head_id>1576</dept_head_id>
+</row>
+<row>
+  <dept_id>500</dept_id>
+  <dept_name>Shipping</dept_name>
+  <dept_head_id>703</dept_head_id>
+</row>
+<row>
+  <dept_id>600</dept_id>
+  <dept_name>HRM</dept_name>
+  <dept_head_id>703</dept_head_id>
+</row>
+<row>
+  <dept_id>700</dept_id>
+  <dept_name>Purchase</dept_name>
+  <dept_head_id>949</dept_head_id>
+</row>
+</data>

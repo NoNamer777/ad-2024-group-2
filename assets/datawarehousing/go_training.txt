@@ -1,0 +1,403 @@
+year month~sales_staff~course
+2019 4~Etienne Jauvin~GO Communication
+2019 4~Elsbeth Wiesinger~GO Communication
+2019 4~Frank Fuchs~GO Communication
+2019 4~Gunter Erler~GO Communication
+2019 4~Bjorn Winkler~GO Communication
+2019 4~Silvano Allessori~GO Communication
+2019 4~Alessandra Torta~GO Communication
+2019 4~Belinda Jansen-Velasquez~GO Communication
+2019 4~Ellen Shapiro~GO Communication
+2019 4~Jan Haverkamp~GO Communication
+2019 4~Maria Laponder~GO Communication
+2019 4~Anders Nilsson~GO Communication
+2019 4~Bengt Gradin~GO Communication
+2019 4~Irene Engelbrektsson~GO Communication
+2019 4~Karin Bergstrom~GO Communication
+2019 4~Martine Vachon~GO Communication
+2019 4~Samantha Pierce~GO Communication
+2019 4~Allisia Wilcox~GO Communication
+2019 4~Audrey Lastman~GO Communication
+2019 4~Bart Scott~GO Communication
+2019 4~Julie Olsen~GO Communication
+2019 4~Ken Chambers~GO Communication
+2019 4~Maureen Hoffman~GO Communication
+2019 4~Corey Wright~GO Communication
+2019 4~Lowell Johnson~GO Communication
+2019 4~Eric Carson~GO Communication
+2019 4~Estelle Johnson~GO Communication
+2019 4~Greg Belding~GO Communication
+2019 4~Harold Germaine~GO Communication
+2019 4~Janice Thomas~GO Communication
+2019 4~Julie Bechard~GO Communication
+2019 4~Florence Martin~GO Communication
+2019 4~Daniel Turpin~GO Communication
+2019 4~Frederic Samson~GO Communication
+2019 4~Ana Orozco~GO Communication
+2019 4~Gabriela Rojas~GO Communication
+2019 4~Machiko Iseya~GO Communication
+2019 4~Genzo Imori~GO Communication
+2019 4~Kazumi Uragome~GO Communication
+2019 4~Masuzo Kakui~GO Communication
+2019 4~Alice Walter~GO Communication
+2019 4~Dave Smythe~GO Communication
+2019 4~Donald Ward~GO Communication
+2019 4~Jake Cartel~GO Communication
+2019 4~John Sinden~GO Communication
+2019 4~Bayard Lopes~GO Communication
+2019 4~Eduardo Guimaraes~GO Communication
+2019 4~Tuomas Savolainen~GO Communication
+2019 4~Chang-ho Kim~GO Communication
+2019 4~Jung-ho Choi~GO Communication
+2019 4~Kwei-Ping Kao~GO Communication
+2019 4~Chin-Tsai Fang~GO Communication
+2019 4~Xiangyong Wang~GO Communication
+2019 4~Fei Meng~GO Communication
+2019 4~Humphrey Willoughby~GO Communication
+2019 4~James Ross-Hythe~GO Communication
+2019 4~Josef Lopez~GO Communication
+2019 4~Keith Reed~GO Communication
+2019 4~Emily Browne~GO Communication
+2019 4~Susanne Sommer~GO Communication
+2019 4~Frank Jever~GO Communication
+2019 4~Gianni Vertemati~GO Communication
+2019 4~Gracy Gellens~GO Communication
+2019 4~Giele Laermans~GO Communication
+2019 4~Francois De Cree~GO Communication
+2019 4~Yvette Lattrez~GO Communication
+2019 4~Willi Seefelder~GO Communication
+2019 4~Sabine Gruner~GO Communication
+2020 4~Sherry Rowland~GO Communication
+2020 4~Donald Chow~GO Communication
+2020 4~Brendon Pike~GO Communication
+2020 4~Ashley McCormick~GO Communication
+2020 4~Chad Michaels~GO Communication
+2020 4~Tomas Iglesias~GO Communication
+2020 4~Helena Lindholm~GO Communication
+2020 4~Janet Walker~GO Communication
+2021 4~Elizabeth Michel~GO Communication
+2021 4~Jorg Kunze~GO Communication
+2019 2~Fritz Hirsch~GO Management 1
+2019 2~Georges Saint-Germain~GO Management 1
+2019 2~Alex Rodriguez~GO Management 1
+2019 2~Corey Wright~GO Management 1
+2019 2~Estelle Johnson~GO Management 1
+2019 2~Greg Belding~GO Management 1
+2019 2~Lucia Reyna~GO Management 1
+2019 2~Alice Walter~GO Management 1
+2019 2~Walter Taylor~GO Management 1
+2019 2~Gracy Gellens~GO Management 1
+2020 2~Maria Iacobucci~GO Management 1
+2020 2~Sally White~GO Management 1
+2020 2~Frank Bretton~GO Management 1
+2020 2~Samantha Floyd~GO Management 1
+2020 2~Julie Bechard~GO Management 1
+2020 2~Kazumi Uragome~GO Management 1
+2020 2~Polly Linton~GO Management 1
+2021 2~Denis Page~GO Management 1
+2021 2~Elsbeth Wiesinger~GO Management 1
+2021 2~Else Morike~GO Management 1
+2021 2~Jorg Kunze~GO Management 1
+2021 2~Alessandra Torta~GO Management 1
+2021 2~Kick Kalkman~GO Management 1
+2021 2~Maria Laponder~GO Management 1
+2021 2~Karin Bergstrom~GO Management 1
+2021 2~Harold Townsend~GO Management 1
+2021 2~Masuzo Kakui~GO Management 1
+2021 2~Bayard Lopes~GO Management 1
+2021 2~James Ross-Hythe~GO Management 1
+2021 2~Frank Jever~GO Management 1
+2019 3~Georges Saint-Germain~GO Management 2
+2019 3~Alice Walter~GO Management 2
+2020 3~Frank Bretton~GO Management 2
+2020 3~Alex Rodriguez~GO Management 2
+2020 3~Samantha Floyd~GO Management 2
+2020 3~Corey Wright~GO Management 2
+2020 3~Greg Belding~GO Management 2
+2020 3~Walter Taylor~GO Management 2
+2021 3~Else Morike~GO Management 2
+2021 3~Fritz Hirsch~GO Management 2
+2021 3~Jorg Kunze~GO Management 2
+2021 3~Maria Iacobucci~GO Management 2
+2021 3~Karin Bergstrom~GO Management 2
+2021 3~Estelle Johnson~GO Management 2
+2021 3~Julie Bechard~GO Management 2
+2021 3~Lucia Reyna~GO Management 2
+2021 3~Kazumi Uragome~GO Management 2
+2021 3~Polly Linton~GO Management 2
+2021 3~Gracy Gellens~GO Management 2
+2019 12~Elizabeth Michel~GO Marketing 1
+2019 12~Emile Clermont~GO Marketing 1
+2019 12~Elsbeth Wiesinger~GO Marketing 1
+2019 12~Bjorn Winkler~GO Marketing 1
+2019 12~Silvano Allessori~GO Marketing 1
+2019 12~Alessandra Torta~GO Marketing 1
+2019 12~Maria Laponder~GO Marketing 1
+2019 12~Anders Nilsson~GO Marketing 1
+2019 12~Martine Vachon~GO Marketing 1
+2019 12~Harold Townsend~GO Marketing 1
+2019 12~Samantha Pierce~GO Marketing 1
+2019 12~Ashley McCormick~GO Marketing 1
+2019 12~Audrey Lastman~GO Marketing 1
+2019 12~Ken Chambers~GO Marketing 1
+2019 12~Chad Michaels~GO Marketing 1
+2019 12~Margaret Lewiston~GO Marketing 1
+2019 12~Eric Carson~GO Marketing 1
+2019 12~Harold Germaine~GO Marketing 1
+2019 12~Janice Thomas~GO Marketing 1
+2019 12~Florence Martin~GO Marketing 1
+2019 12~Daniel Turpin~GO Marketing 1
+2019 12~Ana Orozco~GO Marketing 1
+2019 12~Masuzo Kakui~GO Marketing 1
+2019 12~Dave Smythe~GO Marketing 1
+2019 12~Donald Ward~GO Marketing 1
+2019 12~John Sinden~GO Marketing 1
+2019 12~Tomas Iglesias~GO Marketing 1
+2019 12~Helena Lindholm~GO Marketing 1
+2019 12~Chang-ho Kim~GO Marketing 1
+2019 12~Kwei-Ping Kao~GO Marketing 1
+2019 12~Chin-Tsai Fang~GO Marketing 1
+2019 12~Xiangyong Wang~GO Marketing 1
+2019 12~Fei Meng~GO Marketing 1
+2019 12~James Ross-Hythe~GO Marketing 1
+2019 12~Josef Lopez~GO Marketing 1
+2019 12~Janet Walker~GO Marketing 1
+2019 12~Emily Browne~GO Marketing 1
+2019 12~Frank Jever~GO Marketing 1
+2019 12~Gianni Vertemati~GO Marketing 1
+2019 12~Giele Laermans~GO Marketing 1
+2019 12~Yvette Lattrez~GO Marketing 1
+2019 12~Willi Seefelder~GO Marketing 1
+2019 12~Sabine Gruner~GO Marketing 1
+2020 12~Etienne Jauvin~GO Marketing 1
+2020 12~Belinda Jansen-Velasquez~GO Marketing 1
+2020 12~Ellen Shapiro~GO Marketing 1
+2020 12~Jan Haverkamp~GO Marketing 1
+2020 12~Bengt Gradin~GO Marketing 1
+2020 12~Sherry Rowland~GO Marketing 1
+2020 12~Carole Claudel~GO Marketing 1
+2020 12~Brendon Pike~GO Marketing 1
+2020 12~Maureen Hoffman~GO Marketing 1
+2020 12~Lowell Johnson~GO Marketing 1
+2020 12~Frederic Samson~GO Marketing 1
+2020 12~Gabriela Rojas~GO Marketing 1
+2020 12~Machiko Iseya~GO Marketing 1
+2020 12~Tuomas Savolainen~GO Marketing 1
+2020 12~Susanne Sommer~GO Marketing 1
+2020 12~Francois De Cree~GO Marketing 1
+2021 12~Gunter Erler~GO Marketing 1
+2021 12~Irene Engelbrektsson~GO Marketing 1
+2021 12~Valerie Cohen~GO Marketing 1
+2021 12~Jake Cartel~GO Marketing 1
+2021 12~Eduardo Guimaraes~GO Marketing 1
+2021 12~Jung-ho Choi~GO Marketing 1
+2021 12~Keith Reed~GO Marketing 1
+2019 1~Elizabeth Michel~GO Marketing 2
+2019 1~Elsbeth Wiesinger~GO Marketing 2
+2019 1~Maria Laponder~GO Marketing 2
+2019 1~Anders Nilsson~GO Marketing 2
+2019 1~Ashley McCormick~GO Marketing 2
+2019 1~Audrey Lastman~GO Marketing 2
+2019 1~Ken Chambers~GO Marketing 2
+2019 1~Chad Michaels~GO Marketing 2
+2019 1~Janice Thomas~GO Marketing 2
+2019 1~Dave Smythe~GO Marketing 2
+2019 1~Tomas Iglesias~GO Marketing 2
+2019 1~Chin-Tsai Fang~GO Marketing 2
+2019 1~Xiangyong Wang~GO Marketing 2
+2019 1~James Ross-Hythe~GO Marketing 2
+2019 1~Janet Walker~GO Marketing 2
+2019 1~Willi Seefelder~GO Marketing 2
+2020 1~Bjorn Winkler~GO Marketing 2
+2020 1~Silvano Allessori~GO Marketing 2
+2020 1~Alessandra Torta~GO Marketing 2
+2020 1~Ellen Shapiro~GO Marketing 2
+2020 1~Jan Haverkamp~GO Marketing 2
+2020 1~Bengt Gradin~GO Marketing 2
+2020 1~Harold Townsend~GO Marketing 2
+2020 1~Sherry Rowland~GO Marketing 2
+2020 1~Samantha Pierce~GO Marketing 2
+2020 1~Florence Martin~GO Marketing 2
+2020 1~Frederic Samson~GO Marketing 2
+2020 1~Ana Orozco~GO Marketing 2
+2020 1~Genzo Imori~GO Marketing 2
+2020 1~Masuzo Kakui~GO Marketing 2
+2020 1~John Sinden~GO Marketing 2
+2020 1~Helena Lindholm~GO Marketing 2
+2020 1~Chang-ho Kim~GO Marketing 2
+2020 1~Kwei-Ping Kao~GO Marketing 2
+2020 1~Fei Meng~GO Marketing 2
+2020 1~Frank Jever~GO Marketing 2
+2020 1~Gianni Vertemati~GO Marketing 2
+2020 1~Yvette Lattrez~GO Marketing 2
+2020 1~Sabine Gruner~GO Marketing 2
+2021 1~Emile Clermont~GO Marketing 2
+2021 1~Etienne Jauvin~GO Marketing 2
+2021 1~Belinda Jansen-Velasquez~GO Marketing 2
+2021 1~Martine Vachon~GO Marketing 2
+2021 1~Brendon Pike~GO Marketing 2
+2021 1~Maureen Hoffman~GO Marketing 2
+2021 1~Eric Carson~GO Marketing 2
+2021 1~Harold Germaine~GO Marketing 2
+2021 1~Daniel Turpin~GO Marketing 2
+2021 1~Gabriela Rojas~GO Marketing 2
+2021 1~Machiko Iseya~GO Marketing 2
+2021 1~Donald Ward~GO Marketing 2
+2021 1~Tuomas Savolainen~GO Marketing 2
+2021 1~Josef Lopez~GO Marketing 2
+2021 1~Susanne Sommer~GO Marketing 2
+2021 1~Francois De Cree~GO Marketing 2
+2019 2~Denis Page~GO Marketing 3
+2019 2~Elizabeth Michel~GO Marketing 3
+2019 2~Jorg Kunze~GO Marketing 3
+2019 2~Maria Iacobucci~GO Marketing 3
+2019 2~Alessandra Torta~GO Marketing 3
+2019 2~Frank Bretton~GO Marketing 3
+2019 2~Georges Saint-Germain~GO Marketing 3
+2019 2~Samantha Floyd~GO Marketing 3
+2019 2~Audrey Lastman~GO Marketing 3
+2019 2~Julie Olsen~GO Marketing 3
+2019 2~Julie Bechard~GO Marketing 3
+2019 2~Kazumi Uragome~GO Marketing 3
+2019 2~Walter Taylor~GO Marketing 3
+2020 2~Elsbeth Wiesinger~GO Marketing 3
+2020 2~Else Morike~GO Marketing 3
+2020 2~Frank Fuchs~GO Marketing 3
+2020 2~Silvano Allessori~GO Marketing 3
+2020 2~Jan Haverkamp~GO Marketing 3
+2020 2~Maria Laponder~GO Marketing 3
+2020 2~Anders Nilsson~GO Marketing 3
+2020 2~Karin Bergstrom~GO Marketing 3
+2020 2~Sherry Rowland~GO Marketing 3
+2020 2~Ken Chambers~GO Marketing 3
+2020 2~Greg Belding~GO Marketing 3
+2020 2~Janice Thomas~GO Marketing 3
+2020 2~Masuzo Kakui~GO Marketing 3
+2020 2~John Sinden~GO Marketing 3
+2020 2~Tomas Iglesias~GO Marketing 3
+2020 2~Helena Lindholm~GO Marketing 3
+2020 2~Kwei-Ping Kao~GO Marketing 3
+2020 2~Xiangyong Wang~GO Marketing 3
+2020 2~James Ross-Hythe~GO Marketing 3
+2020 2~Frank Jever~GO Marketing 3
+2020 2~Gianni Vertemati~GO Marketing 3
+2020 2~Gracy Gellens~GO Marketing 3
+2020 2~Willi Seefelder~GO Marketing 3
+2020 2~Sabine Gruner~GO Marketing 3
+2021 2~Bjorn Winkler~GO Marketing 3
+2021 2~Ellen Shapiro~GO Marketing 3
+2021 2~Bengt Gradin~GO Marketing 3
+2021 2~Martine Vachon~GO Marketing 3
+2021 2~Harold Townsend~GO Marketing 3
+2021 2~Samantha Pierce~GO Marketing 3
+2021 2~Brendon Pike~GO Marketing 3
+2021 2~Maureen Hoffman~GO Marketing 3
+2021 2~Corey Wright~GO Marketing 3
+2021 2~Harold Germaine~GO Marketing 3
+2021 2~Daniel Turpin~GO Marketing 3
+2021 2~Genzo Imori~GO Marketing 3
+2021 2~Tuomas Savolainen~GO Marketing 3
+2021 2~Janet Walker~GO Marketing 3
+2021 2~Susanne Sommer~GO Marketing 3
+2021 2~Yvette Lattrez~GO Marketing 3
+2019 10~Belinda Jansen-Velasquez~GO Orientation
+2019 10~Ellen Shapiro~GO Orientation
+2019 10~Jan Haverkamp~GO Orientation
+2019 10~Bengt Gradin~GO Orientation
+2019 10~Maureen Hoffman~GO Orientation
+2019 10~Estelle Johnson~GO Orientation
+2019 10~Greg Belding~GO Orientation
+2019 10~Harold Germaine~GO Orientation
+2019 10~Daniel Turpin~GO Orientation
+2019 10~Machiko Iseya~GO Orientation
+2019 10~Kazumi Uragome~GO Orientation
+2019 10~Alice Walter~GO Orientation
+2019 10~Dave Smythe~GO Orientation
+2019 10~Donald Ward~GO Orientation
+2019 10~Jake Cartel~GO Orientation
+2019 10~Viviam Barros~GO Orientation
+2019 10~Eduardo Guimaraes~GO Orientation
+2019 10~Chang-ho Kim~GO Orientation
+2019 10~Jung-ho Choi~GO Orientation
+2019 10~Kwei-Ping Kao~GO Orientation
+2019 10~Josef Lopez~GO Orientation
+2019 10~Keith Reed~GO Orientation
+2019 10~Emily Browne~GO Orientation
+2019 10~Susanne Sommer~GO Orientation
+2019 10~Frank Jever~GO Orientation
+2019 10~Gianni Vertemati~GO Orientation
+2019 10~Gracy Gellens~GO Orientation
+2019 10~Giele Laermans~GO Orientation
+2019 10~Francois De Cree~GO Orientation
+2019 10~Yvette Lattrez~GO Orientation
+2019 10~Willi Seefelder~GO Orientation
+2020 10~Brendon Pike~GO Orientation
+2021 10~Carole Claudel~GO Orientation
+2019 6~Emile Clermont~GO Sales 1
+2019 6~Etienne Jauvin~GO Sales 1
+2019 6~Bengt Gradin~GO Sales 1
+2019 6~Carole Claudel~GO Sales 1
+2019 6~Allisia Wilcox~GO Sales 1
+2019 6~Maureen Hoffman~GO Sales 1
+2019 6~Lowell Johnson~GO Sales 1
+2019 6~Valerie Cohen~GO Sales 1
+2019 6~Janice Thomas~GO Sales 1
+2019 6~Florence Martin~GO Sales 1
+2019 6~Gabriela Rojas~GO Sales 1
+2019 6~Machiko Iseya~GO Sales 1
+2019 6~Tomas Iglesias~GO Sales 1
+2019 6~Viviam Barros~GO Sales 1
+2019 6~Tuomas Savolainen~GO Sales 1
+2019 6~Kwei-Ping Kao~GO Sales 1
+2019 6~Keith Reed~GO Sales 1
+2019 6~Frank Jever~GO Sales 1
+2019 6~Giele Laermans~GO Sales 1
+2020 6~Elizabeth Michel~GO Sales 1
+2020 6~Gunter Erler~GO Sales 1
+2020 6~Irene Engelbrektsson~GO Sales 1
+2020 6~Martine Vachon~GO Sales 1
+2020 6~Brendon Pike~GO Sales 1
+2020 6~Audrey Lastman~GO Sales 1
+2020 6~Ken Chambers~GO Sales 1
+2020 6~Eric Carson~GO Sales 1
+2020 6~Harold Germaine~GO Sales 1
+2020 6~Daniel Turpin~GO Sales 1
+2020 6~Genzo Imori~GO Sales 1
+2020 6~Jake Cartel~GO Sales 1
+2020 6~Chang-ho Kim~GO Sales 1
+2020 6~Chin-Tsai Fang~GO Sales 1
+2020 6~Josef Lopez~GO Sales 1
+2020 6~Emily Browne~GO Sales 1
+2021 6~Ellen Shapiro~GO Sales 1
+2021 6~Donald Chow~GO Sales 1
+2021 6~Samantha Pierce~GO Sales 1
+2021 6~Ashley McCormick~GO Sales 1
+2021 6~Chad Michaels~GO Sales 1
+2021 6~Margaret Lewiston~GO Sales 1
+2021 6~Frederic Samson~GO Sales 1
+2021 6~Ana Orozco~GO Sales 1
+2021 6~Jung-ho Choi~GO Sales 1
+2021 6~Humphrey Willoughby~GO Sales 1
+2019 7~Bengt Gradin~GO Sales 2
+2019 7~Carole Claudel~GO Sales 2
+2019 7~Allisia Wilcox~GO Sales 2
+2019 7~Maureen Hoffman~GO Sales 2
+2019 7~Valerie Cohen~GO Sales 2
+2019 7~Machiko Iseya~GO Sales 2
+2019 7~Tuomas Savolainen~GO Sales 2
+2020 7~Elizabeth Michel~GO Sales 2
+2020 7~Martine Vachon~GO Sales 2
+2020 7~Eric Carson~GO Sales 2
+2020 7~Harold Germaine~GO Sales 2
+2020 7~Daniel Turpin~GO Sales 2
+2020 7~Viviam Barros~GO Sales 2
+2020 7~Chin-Tsai Fang~GO Sales 2
+2020 7~Josef Lopez~GO Sales 2
+2020 7~Emily Browne~GO Sales 2
+2021 7~Ellen Shapiro~GO Sales 2
+2021 7~Ashley McCormick~GO Sales 2
+2021 7~Audrey Lastman~GO Sales 2
+2021 7~Margaret Lewiston~GO Sales 2
+2021 7~Jung-ho Choi~GO Sales 2
+2021 7~Kwei-Ping Kao~GO Sales 2
+2021 7~Humphrey Willoughby~GO Sales 2

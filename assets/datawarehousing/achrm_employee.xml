@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <emp_id>102</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Fran</emp_fname>
+  <emp_lname>Whitney</emp_lname>
+  <dept_id>100</dept_id>
+  <street>49 East Washington Street</street>
+  <city>Needham</city>
+  <state>MA</state>
+  <zip_code>02192</zip_code>
+  <phone>6175553985</phone>
+  <status>A</status>
+  <ss_number>017349033</ss_number>
+  <salary>45700</salary>
+  <start_date>2007-02-26 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1979-06-05 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>105</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Matthew</emp_fname>
+  <emp_lname>Cobb</emp_lname>
+  <dept_id>100</dept_id>
+  <street>77 Pleasant Street</street>
+  <city>Waltham</city>
+  <state>MA</state>
+  <zip_code>02154</zip_code>
+  <phone>6175553840</phone>
+  <status>A</status>
+  <ss_number>052345739</ss_number>
+  <salary>80000</salary>
+  <start_date>2007-07-02 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1981-12-04 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>129</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Philip</emp_fname>
+  <emp_lname>Chin</emp_lname>
+  <dept_id>200</dept_id>
+  <street>59 Pond Street</street>
+  <city>Atlanta</city>
+  <state>GA</state>
+  <zip_code>30339</zip_code>
+  <phone>4045552341</phone>
+  <status>A</status>
+  <ss_number>024608923</ss_number>
+  <salary>38500</salary>
+  <start_date>2007-08-04 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1987-10-30 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>148</emp_id>
+  <manager_id>1293</manager_id>
+  <emp_fname>Julie</emp_fname>
+  <emp_lname>Jordan</emp_lname>
+  <dept_id>300</dept_id>
+  <street>144 Great Plain Avenue</street>
+  <city>Winchester</city>
+  <state>MA</state>
+  <zip_code>01890</zip_code>
+  <phone>6175557835</phone>
+  <status>A</status>
+  <ss_number>501704733</ss_number>
+  <salary>41432</salary>
+  <start_date>2007-10-04 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1972-12-13 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>160</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Robert</emp_fname>
+  <emp_lname>Breault</emp_lname>
+  <dept_id>100</dept_id>
+  <street>58 Cherry Street</street>
+  <city>Milton</city>
+  <state>MA</state>
+  <zip_code>02186</zip_code>
+  <phone>6175553099</phone>
+  <status>A</status>
+  <ss_number>025487623</ss_number>
+  <salary>57490</salary>
+  <start_date>2007-12-16 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1968-05-13 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>184</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Melissa</emp_fname>
+  <emp_lname>Espinoza</emp_lname>
+  <dept_id>400</dept_id>
+  <street>112 Apple Tree Way</street>
+  <city>Stow</city>
+  <state>MA</state>
+  <zip_code>01775</zip_code>
+  <phone>5085552319</phone>
+  <status>A</status>
+  <ss_number>025481943</ss_number>
+  <salary>36490</salary>
+  <start_date>2008-04-18 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1960-12-14 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>191</emp_id>
+  <manager_id>703</manager_id>
+  <emp_fname>Jeannette</emp_fname>
+  <emp_lname>Bertrand</emp_lname>
+  <dept_id>500</dept_id>
+  <street>209 Concord Street</street>
+  <city>Acton</city>
+  <state>MA</state>
+  <zip_code>01720</zip_code>
+  <phone>5085558138</phone>
+  <status>A</status>
+  <ss_number>017348821</ss_number>
+  <salary>32780</salary>
+  <start_date>2008-05-20 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1985-12-21 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>195</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Marc</emp_fname>
+  <emp_lname>Dill</emp_lname>
+  <dept_id>200</dept_id>
+  <street>89 Hancock Street</street>
+  <city>Milton</city>
+  <state>MA</state>
+  <zip_code>02186</zip_code>
+  <phone>6175552144</phone>
+  <status>A</status>
+  <ss_number>079486634</ss_number>
+  <salary>54800</salary>
+  <start_date>2008-06-06 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1984-07-19 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>207</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Jane</emp_fname>
+  <emp_lname>Francis</emp_lname>
+  <dept_id>400</dept_id>
+  <street>12 Hawthorne Drive</street>
+  <city>Concord</city>
+  <state>MA</state>
+  <zip_code>01742</zip_code>
+  <phone>5085559022</phone>
+  <status>A</status>
+  <ss_number>501708992</ss_number>
+  <salary>53870</salary>
+  <start_date>2008-08-04 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1975-09-12 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>243</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Natasha</emp_fname>
+  <emp_lname>Shishov</emp_lname>
+  <dept_id>100</dept_id>
+  <street>15 Milk Street</street>
+  <city>Waltham</city>
+  <state>MA</state>
+  <zip_code>02154</zip_code>
+  <phone>6175552755</phone>
+  <status>A</status>
+  <ss_number>043216799</ss_number>
+  <salary>72995</salary>
+  <start_date>2008-12-06 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1970-04-22 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>247</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Kurt</emp_fname>
+  <emp_lname>Driscoll</emp_lname>
+  <dept_id>100</dept_id>
+  <street>154 School Street</street>
+  <city>Waltham</city>
+  <state>MA</state>
+  <zip_code>02154</zip_code>
+  <phone>6175551234</phone>
+  <status>L</status>
+  <ss_number>024601768</ss_number>
+  <salary>48023</salary>
+  <start_date>2008-12-30 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1976-03-05 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>249</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Rodrigo</emp_fname>
+  <emp_lname>Guevara</emp_lname>
+  <dept_id>100</dept_id>
+  <street>East Main Street</street>
+  <city>Framingham</city>
+  <state>MA</state>
+  <zip_code>01701</zip_code>
+  <phone>5085550029</phone>
+  <status>A</status>
+  <ss_number>084329990</ss_number>
+  <salary>42998</salary>
+  <start_date>2009-04-13 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1977-11-23 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>266</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Ram</emp_fname>
+  <emp_lname>Gowda</emp_lname>
+  <dept_id>100</dept_id>
+  <street>79 Page Street</street>
+  <city>Natick</city>
+  <state>MA</state>
+  <zip_code>01760</zip_code>
+  <phone>5085558722</phone>
+  <status>A</status>
+  <ss_number>017346122</ss_number>
+  <salary>59840</salary>
+  <start_date>2009-05-30 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1968-10-18 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>278</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Terry</emp_fname>
+  <emp_lname>Melkisetian</emp_lname>
+  <dept_id>100</dept_id>
+  <street>87 Oxford Road</street>
+  <city>Watertown</city>
+  <state>MA</state>
+  <zip_code>02172</zip_code>
+  <phone>6175555188</phone>
+  <status>A</status>
+  <ss_number>087602311</ss_number>
+  <salary>48500</salary>
+  <start_date>2009-06-05 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1987-05-17 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>299</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Rollin</emp_fname>
+  <emp_lname>Overbey</emp_lname>
+  <dept_id>600</dept_id>
+  <street>1915 Companion Ct.</street>
+  <city>Emeryville</city>
+  <state>CA</state>
+  <zip_code>94608</zip_code>
+  <phone>5105557255</phone>
+  <status>A</status>
+  <ss_number>025487133</ss_number>
+  <salary>39300</salary>
+  <start_date>2009-08-19 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1985-03-15 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>316</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Lynn</emp_fname>
+  <emp_lname>Pastor</emp_lname>
+  <dept_id>100</dept_id>
+  <street>14 Cricklewood Drive</street>
+  <city>Burlington</city>
+  <state>MA</state>
+  <zip_code>01803</zip_code>
+  <phone>6175552001</phone>
+  <status>A</status>
+  <ss_number>048667211</ss_number>
+  <salary>74500</salary>
+  <start_date>2009-10-24 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1983-07-14 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>318</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>John</emp_fname>
+  <emp_lname>Crow</emp_lname>
+  <dept_id>400</dept_id>
+  <street>531 Main Street</street>
+  <city>Watertown</city>
+  <state>MA</state>
+  <zip_code>02172</zip_code>
+  <phone>6175553332</phone>
+  <status>A</status>
+  <ss_number>079349168</ss_number>
+  <salary>41700</salary>
+  <start_date>2009-11-20 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1983-04-24 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>390</emp_id>
+  <manager_id>1293</manager_id>
+  <emp_fname>Jo Ann</emp_fname>
+  <emp_lname>Davidson</emp_lname>
+  <dept_id>300</dept_id>
+  <street>27 Mount Vernon Road</street>
+  <city>Needham</city>
+  <state>MA</state>
+  <zip_code>02192</zip_code>
+  <phone>6175553870</phone>
+  <status>A</status>
+  <ss_number>027341657</ss_number>
+  <salary>57090</salary>
+  <start_date>2009-11-30 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1978-02-17 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>409</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Bruce</emp_fname>
+  <emp_lname>Weaver</emp_lname>
+  <dept_id>400</dept_id>
+  <street>19 Westmoreland Street</street>
+  <city>Lexington</city>
+  <state>MA</state>
+  <zip_code>02173</zip_code>
+  <phone>6175554444</phone>
+  <status>A</status>
+  <ss_number>048781192</ss_number>
+  <salary>46550</salary>
+  <start_date>2009-12-08 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1967-04-05 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>445</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Kim</emp_fname>
+  <emp_lname>Lull</emp_lname>
+  <dept_id>100</dept_id>
+  <street>199 Lincoln Street</street>
+  <city>Concord</city>
+  <state>MA</state>
+  <zip_code>01742</zip_code>
+  <phone>5085554444</phone>
+  <status>A</status>
+  <ss_number>017508821</ss_number>
+  <salary>87900</salary>
+  <start_date>2009-12-13 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1976-01-19 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>453</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Andrew</emp_fname>
+  <emp_lname>Rabkin</emp_lname>
+  <dept_id>100</dept_id>
+  <street>44 Birds Hill Way</street>
+  <city>Burlington</city>
+  <state>MA</state>
+  <zip_code>01803</zip_code>
+  <phone>6175554444</phone>
+  <status>A</status>
+  <ss_number>029458129</ss_number>
+  <salary>64500</salary>
+  <start_date>2009-12-13 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1978-08-10 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>467</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>James</emp_fname>
+  <emp_lname>Klobucher</emp_lname>
+  <dept_id>200</dept_id>
+  <street>18 Corning Street</street>
+  <city>Houston</city>
+  <state>TX</state>
+  <zip_code>77079</zip_code>
+  <phone>7135558627</phone>
+  <status>A</status>
+  <ss_number>034281032</ss_number>
+  <salary>49500</salary>
+  <start_date>2010-01-07 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1973-11-09 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>479</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Linda</emp_fname>
+  <emp_lname>Siperstein</emp_lname>
+  <dept_id>100</dept_id>
+  <street>341 Hillside Avenue</street>
+  <city>Newton</city>
+  <state>MA</state>
+  <zip_code>02164</zip_code>
+  <phone>6175556588</phone>
+  <status>L</status>
+  <ss_number>022415639</ss_number>
+  <salary>39875</salary>
+  <start_date>2010-01-20 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1988-09-21 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>501</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>David</emp_fname>
+  <emp_lname>Scott</emp_lname>
+  <dept_id>100</dept_id>
+  <street>21 Riverdale Drive</street>
+  <city>Belmont</city>
+  <state>MA</state>
+  <zip_code>02178</zip_code>
+  <phone>6175553246</phone>
+  <status>A</status>
+  <ss_number>064983327</ss_number>
+  <salary>96300</salary>
+  <start_date>2010-02-01 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1968-03-01 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>529</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Dorothy</emp_fname>
+  <emp_lname>Sullivan</emp_lname>
+  <dept_id>100</dept_id>
+  <street>124 Minuteman Drive</street>
+  <city>Lexington</city>
+  <state>MA</state>
+  <zip_code>02173</zip_code>
+  <phone>6175553947</phone>
+  <status>A</status>
+  <ss_number>501324492</ss_number>
+  <salary>67890</salary>
+  <start_date>2010-08-03 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1971-04-19 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>582</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Peter</emp_fname>
+  <emp_lname>Samuels</emp_lname>
+  <dept_id>100</dept_id>
+  <street>54 Woodlawn Street</street>
+  <city>Newton</city>
+  <state>MA</state>
+  <zip_code>02164</zip_code>
+  <phone>6175558342</phone>
+  <status>A</status>
+  <ss_number>038218867</ss_number>
+  <salary>37400</salary>
+  <start_date>2010-09-21 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1989-02-28 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>586</emp_id>
+  <manager_id>1293</manager_id>
+  <emp_fname>James</emp_fname>
+  <emp_lname>Coleman</emp_lname>
+  <dept_id>300</dept_id>
+  <street>57 Heather Hill Drive</street>
+  <city>Acton</city>
+  <state>MA</state>
+  <zip_code>01720</zip_code>
+  <phone>5085554735</phone>
+  <status>L</status>
+  <ss_number>031281245</ss_number>
+  <salary>42300</salary>
+  <start_date>2010-10-04 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1987-03-04 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>591</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Irene</emp_fname>
+  <emp_lname>Barletta</emp_lname>
+  <dept_id>400</dept_id>
+  <street>37 Gleason Street</street>
+  <city>Bedford</city>
+  <state>MA</state>
+  <zip_code>01730</zip_code>
+  <phone>6175558345</phone>
+  <status>A</status>
+  <ss_number>056872399</ss_number>
+  <salary>45450</salary>
+  <start_date>2011-01-16 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1978-01-30 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>604</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Albert</emp_fname>
+  <emp_lname>Wang</emp_lname>
+  <dept_id>100</dept_id>
+  <street>48 Edwin Street</street>
+  <city>Waltham</city>
+  <state>MA</state>
+  <zip_code>02154</zip_code>
+  <phone>6175558741</phone>
+  <status>A</status>
+  <ss_number>023486621</ss_number>
+  <salary>68400</salary>
+  <start_date>2011-03-30 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1979-12-25 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>641</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Thomas</emp_fname>
+  <emp_lname>Powell</emp_lname>
+  <dept_id>200</dept_id>
+  <street>48 Kennedy Court</street>
+  <city>Newton</city>
+  <state>MA</state>
+  <zip_code>02162</zip_code>
+  <phone>6175551956</phone>
+  <status>A</status>
+  <ss_number>038726633</ss_number>
+  <salary>54600</salary>
+  <start_date>2011-04-14 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1972-10-31 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>667</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Mary</emp_fname>
+  <emp_lname>Garcia</emp_lname>
+  <dept_id>200</dept_id>
+  <street>98 Purvis Street</street>
+  <city>Houston</city>
+  <state>TX</state>
+  <zip_code>77079</zip_code>
+  <phone>7135553431</phone>
+  <status>A</status>
+  <ss_number>042706188</ss_number>
+  <salary>39800</salary>
+  <start_date>2011-05-23 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1984-01-23 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>690</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Kathleen</emp_fname>
+  <emp_lname>Poitras</emp_lname>
+  <dept_id>200</dept_id>
+  <street>50 The Fenway</street>
+  <city>Boston</city>
+  <state>MA</state>
+  <zip_code>02118</zip_code>
+  <phone>6175553920</phone>
+  <status>A</status>
+  <ss_number>087236702</ss_number>
+  <salary>46200</salary>
+  <start_date>2011-05-29 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1986-09-29 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>703</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Jose</emp_fname>
+  <emp_lname>Martinez</emp_lname>
+  <dept_id>500</dept_id>
+  <street>495 Washington Street</street>
+  <city>Westwood</city>
+  <state>MA</state>
+  <zip_code>02090</zip_code>
+  <phone>6175557114</phone>
+  <status>A</status>
+  <ss_number>012896755</ss_number>
+  <salary>61050</salary>
+  <start_date>2011-06-01 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1974-07-22 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>750</emp_id>
+  <manager_id>703</manager_id>
+  <emp_fname>Jane</emp_fname>
+  <emp_lname>Braun</emp_lname>
+  <dept_id>500</dept_id>
+  <street>45 Wood Street</street>
+  <city>Cambridge</city>
+  <state>MA</state>
+  <zip_code>02140</zip_code>
+  <phone>6175557857</phone>
+  <status>A</status>
+  <ss_number>012459381</ss_number>
+  <salary>37730</salary>
+  <start_date>2011-07-04 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1960-08-09 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>757</emp_id>
+  <manager_id>1293</manager_id>
+  <emp_fname>Denis</emp_fname>
+  <emp_lname>Higgins</emp_lname>
+  <dept_id>300</dept_id>
+  <street>1033 Massachusetts Avenue</street>
+  <city>Lexington</city>
+  <state>MA</state>
+  <zip_code>02173</zip_code>
+  <phone>6175553985</phone>
+  <status>A</status>
+  <ss_number>067829311</ss_number>
+  <salary>43700</salary>
+  <start_date>2011-08-24 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1989-05-12 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>839</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Dean</emp_fname>
+  <emp_lname>Marshall</emp_lname>
+  <dept_id>100</dept_id>
+  <street>44 Mount Pleasant Street</street>
+  <city>Belmont</city>
+  <state>MA</state>
+  <zip_code>02178</zip_code>
+  <phone>6175553707</phone>
+  <status>A</status>
+  <ss_number>034629123</ss_number>
+  <salary>42500</salary>
+  <start_date>2011-10-19 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1987-05-21 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>856</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Samuel</emp_fname>
+  <emp_lname>Singer</emp_lname>
+  <dept_id>200</dept_id>
+  <street>187 Orchard Road</street>
+  <city>Stow</city>
+  <state>MA</state>
+  <zip_code>01775</zip_code>
+  <phone>5085553255</phone>
+  <status>A</status>
+  <ss_number>011349786</ss_number>
+  <salary>34892</salary>
+  <start_date>2011-11-30 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1980-04-07 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>862</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>John</emp_fname>
+  <emp_lname>Sheffield</emp_lname>
+  <dept_id>100</dept_id>
+  <street>45 Belleview Drive</street>
+  <city>Houston</city>
+  <state>TX</state>
+  <zip_code>77079</zip_code>
+  <phone>7135553877</phone>
+  <status>A</status>
+  <ss_number>018458291</ss_number>
+  <salary>87900</salary>
+  <start_date>2011-12-14 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1976-09-25 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>868</emp_id>
+  <manager_id>1703</manager_id>
+  <emp_fname>Felicia</emp_fname>
+  <emp_lname>Kuo</emp_lname>
+  <dept_id>500</dept_id>
+  <street>79 Oak Street</street>
+  <city>Cambridge</city>
+  <state>MA</state>
+  <zip_code>02140</zip_code>
+  <phone>6175552385</phone>
+  <status>A</status>
+  <ss_number>043592831</ss_number>
+  <salary>28200</salary>
+  <start_date>2012-01-10 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1989-07-24 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>879</emp_id>
+  <manager_id>1293</manager_id>
+  <emp_fname>Kristen</emp_fname>
+  <emp_lname>Coe</emp_lname>
+  <dept_id>300</dept_id>
+  <street>30 Rainbow Road</street>
+  <city>West Roxbury</city>
+  <state>MA</state>
+  <zip_code>02132</zip_code>
+  <phone>6175559192</phone>
+  <status>A</status>
+  <ss_number>027581035</ss_number>
+  <salary>36500</salary>
+  <start_date>2012-01-16 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1986-11-11 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>888</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Doug</emp_fname>
+  <emp_lname>Charlton</emp_lname>
+  <dept_id>400</dept_id>
+  <street>57 Webster Street</street>
+  <city>Concord</city>
+  <state>MA</state>
+  <zip_code>01742</zip_code>
+  <phone>5085559246</phone>
+  <status>A</status>
+  <ss_number>036102935</ss_number>
+  <salary>28300</salary>
+  <start_date>2012-03-10 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1987-01-23 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>902</emp_id>
+  <manager_id>1293</manager_id>
+  <emp_fname>Moira</emp_fname>
+  <emp_lname>Kelly</emp_lname>
+  <dept_id>200</dept_id>
+  <street>12 Fountain Road</street>
+  <city>Gloucester</city>
+  <state>MA</state>
+  <zip_code>01930</zip_code>
+  <phone>5085553769</phone>
+  <status>A</status>
+  <ss_number>015923467</ss_number>
+  <salary>87500</salary>
+  <start_date>2012-04-01 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1971-08-16 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>913</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Ken</emp_fname>
+  <emp_lname>Martel</emp_lname>
+  <dept_id>200</dept_id>
+  <street>23 Lincoln Street</street>
+  <city>Needham</city>
+  <state>MA</state>
+  <zip_code>02192</zip_code>
+  <phone>6175558474</phone>
+  <status>A</status>
+  <ss_number>022783569</ss_number>
+  <salary>55700</salary>
+  <start_date>2012-04-16 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1964-04-23 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>921</emp_id>
+  <manager_id>703</manager_id>
+  <emp_fname>Charles</emp_fname>
+  <emp_lname>Crowley</emp_lname>
+  <dept_id>500</dept_id>
+  <street>421 Beacon Street</street>
+  <city>Belmont</city>
+  <state>MA</state>
+  <zip_code>02178</zip_code>
+  <phone>6175559425</phone>
+  <status>A</status>
+  <ss_number>034568789</ss_number>
+  <salary>41700</salary>
+  <start_date>2012-04-22 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1981-09-11 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>930</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Ann</emp_fname>
+  <emp_lname>Taylor</emp_lname>
+  <dept_id>200</dept_id>
+  <street>25 Westminster Street</street>
+  <city>Atlanta</city>
+  <state>GA</state>
+  <zip_code>30339</zip_code>
+  <phone>4045551515</phone>
+  <status>A</status>
+  <ss_number>062890293</ss_number>
+  <salary>46890</salary>
+  <start_date>2012-05-08 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1983-06-06 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>949</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Pamela</emp_fname>
+  <emp_lname>Savarino</emp_lname>
+  <dept_id>200</dept_id>
+  <street>112 Beach Street</street>
+  <city>Long Beach</city>
+  <state>CA</state>
+  <zip_code>90806</zip_code>
+  <phone>3105551857</phone>
+  <status>A</status>
+  <ss_number>018762936</ss_number>
+  <salary>72300</salary>
+  <start_date>2012-05-08 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1976-07-28 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>958</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Thomas</emp_fname>
+  <emp_lname>Sisson</emp_lname>
+  <dept_id>100</dept_id>
+  <street>54 School Street</street>
+  <city>Houston</city>
+  <state>TX</state>
+  <zip_code>77079</zip_code>
+  <phone>7135558390</phone>
+  <status>A</status>
+  <ss_number>017283997</ss_number>
+  <salary>42100</salary>
+  <start_date>2012-07-16 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1990-10-02 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>992</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Joyce</emp_fname>
+  <emp_lname>Butterfield</emp_lname>
+  <dept_id>400</dept_id>
+  <street>119 Adams Street</street>
+  <city>Cambridge</city>
+  <state>MA</state>
+  <zip_code>02140</zip_code>
+  <phone>6175552232</phone>
+  <status>A</status>
+  <ss_number>023487085</ss_number>
+  <salary>34011</salary>
+  <start_date>2012-08-13 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1981-04-15 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1013</emp_id>
+  <manager_id>703</manager_id>
+  <emp_fname>Joseph</emp_fname>
+  <emp_lname>Barker</emp_lname>
+  <dept_id>500</dept_id>
+  <street>58 West Drive</street>
+  <city>Bedford</city>
+  <state>MA</state>
+  <zip_code>01730</zip_code>
+  <phone>6175558021</phone>
+  <status>A</status>
+  <ss_number>023470756</ss_number>
+  <salary>27290</salary>
+  <start_date>2012-09-10 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1990-02-14 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1021</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Paul</emp_fname>
+  <emp_lname>Sterling</emp_lname>
+  <dept_id>200</dept_id>
+  <street>112 Endicott Street</street>
+  <city>Concord</city>
+  <state>MA</state>
+  <zip_code>01742</zip_code>
+  <phone>5085550295</phone>
+  <status>A</status>
+  <ss_number>037846595</ss_number>
+  <salary>64900</salary>
+  <start_date>2012-10-28 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1971-02-27 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1039</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Shih Lin</emp_fname>
+  <emp_lname>Chao</emp_lname>
+  <dept_id>200</dept_id>
+  <street>59 Holyoke Street</street>
+  <city>Lexington</city>
+  <state>MA</state>
+  <zip_code>02173</zip_code>
+  <phone>6175555921</phone>
+  <status>A</status>
+  <ss_number>046973741</ss_number>
+  <salary>33890</salary>
+  <start_date>2012-11-11 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1990-12-12 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1062</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Barbara</emp_fname>
+  <emp_lname>Blaikie</emp_lname>
+  <dept_id>400</dept_id>
+  <street>66 Beaumont Terrace</street>
+  <city>Needham</city>
+  <state>MA</state>
+  <zip_code>02192</zip_code>
+  <phone>6175559345</phone>
+  <status>A</status>
+  <ss_number>019887257</ss_number>
+  <salary>54900</salary>
+  <start_date>2012-11-20 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1974-11-14 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1090</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Susan</emp_fname>
+  <emp_lname>Smith</emp_lname>
+  <dept_id>100</dept_id>
+  <street>177 Johnson Street</street>
+  <city>Houston</city>
+  <state>TX</state>
+  <zip_code>77079</zip_code>
+  <phone>7135556613</phone>
+  <status>A</status>
+  <ss_number>013558813</ss_number>
+  <salary>51411</salary>
+  <start_date>2012-12-13 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1971-11-30 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1101</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Mark</emp_fname>
+  <emp_lname>Preston</emp_lname>
+  <dept_id>200</dept_id>
+  <street>49 Constitution Road</street>
+  <city>Boston</city>
+  <state>MA</state>
+  <zip_code>02124</zip_code>
+  <phone>6175555862</phone>
+  <status>A</status>
+  <ss_number>027663454</ss_number>
+  <salary>37803</salary>
+  <start_date>2013-01-09 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1987-09-14 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1142</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Alison</emp_fname>
+  <emp_lname>Clark</emp_lname>
+  <dept_id>200</dept_id>
+  <street>56 Carver Street</street>
+  <city>Emeryville</city>
+  <state>CA</state>
+  <zip_code>94608</zip_code>
+  <phone>5105559437</phone>
+  <status>A</status>
+  <ss_number>055913622</ss_number>
+  <salary>45000</salary>
+  <start_date>2013-01-19 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1978-05-04 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1157</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Hing</emp_fname>
+  <emp_lname>Soo</emp_lname>
+  <dept_id>100</dept_id>
+  <street>19 Glenmeadow Street</street>
+  <city>Needham</city>
+  <state>MA</state>
+  <zip_code>02192</zip_code>
+  <phone>6175558748</phone>
+  <status>A</status>
+  <ss_number>023434587</ss_number>
+  <salary>39075</salary>
+  <start_date>2013-01-29 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1991-03-07 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1160</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Belinda</emp_fname>
+  <emp_lname>Jansen-Velasquez</emp_lname>
+  <dept_id>200</dept_id>
+  <street>45 Wood Street</street>
+  <city>Atlanta</city>
+  <state>GA</state>
+  <zip_code>30985</zip_code>
+  <phone>4078694567</phone>
+  <status>A</status>
+  <ss_number>089705939</ss_number>
+  <salary>30500</salary>
+  <start_date>2017-11-11 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1988-04-01 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1162</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Kevin</emp_fname>
+  <emp_lname>Goggin</emp_lname>
+  <dept_id>200</dept_id>
+  <street>12 Wachusett Road</street>
+  <city>Wellesley</city>
+  <state>MA</state>
+  <zip_code>02181</zip_code>
+  <phone>6175553785</phone>
+  <status>A</status>
+  <ss_number>075679377</ss_number>
+  <salary>37900</salary>
+  <start_date>2013-02-03 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1973-04-18 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1191</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Matthew</emp_fname>
+  <emp_lname>Bucceri</emp_lname>
+  <dept_id>400</dept_id>
+  <street>57 Taylor Place</street>
+  <city>Lexington</city>
+  <state>MA</state>
+  <zip_code>02173</zip_code>
+  <phone>6175555336</phone>
+  <status>A</status>
+  <ss_number>023749270</ss_number>
+  <salary>45900</salary>
+  <start_date>2013-02-12 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1965-11-19 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1250</emp_id>
+  <manager_id>501</manager_id>
+  <emp_fname>Emilio</emp_fname>
+  <emp_lname>Diaz</emp_lname>
+  <dept_id>100</dept_id>
+  <street>112 Evergreen Street</street>
+  <city>Wellesley</city>
+  <state>MA</state>
+  <zip_code>02181</zip_code>
+  <phone>6175553567</phone>
+  <status>A</status>
+  <ss_number>023476492</ss_number>
+  <salary>54900</salary>
+  <start_date>2013-02-17 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1957-01-02 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1293</emp_id>
+  <manager_id>1293</manager_id>
+  <emp_fname>Mary Anne</emp_fname>
+  <emp_lname>Shea</emp_lname>
+  <dept_id>300</dept_id>
+  <street>197 Camden Road</street>
+  <city>Lexington</city>
+  <state>MA</state>
+  <zip_code>02173</zip_code>
+  <phone>6175554616</phone>
+  <status>A</status>
+  <ss_number>019641485</ss_number>
+  <salary>138948</salary>
+  <start_date>2013-03-01 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1976-03-13 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1336</emp_id>
+  <manager_id>1293</manager_id>
+  <emp_fname>Janet</emp_fname>
+  <emp_lname>Bigelow</emp_lname>
+  <dept_id>300</dept_id>
+  <street>84 Lunda Street</street>
+  <city>Waltham</city>
+  <state>MA</state>
+  <zip_code>02154</zip_code>
+  <phone>6175551493</phone>
+  <status>A</status>
+  <ss_number>017326112</ss_number>
+  <salary>31200</salary>
+  <start_date>2014-08-25 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1971-07-21 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1340</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Belinda</emp_fname>
+  <emp_lname>Velasquez</emp_lname>
+  <dept_id>200</dept_id>
+  <street>45 Wood Street</street>
+  <city>Atlanta</city>
+  <state>GA</state>
+  <zip_code>30985</zip_code>
+  <phone>4078694567</phone>
+  <status>A</status>
+  <ss_number>089705939</ss_number>
+  <salary>30500</salary>
+  <start_date>2017-11-11 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1988-04-01 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1390</emp_id>
+  <manager_id>1293</manager_id>
+  <emp_fname>Jennifer</emp_fname>
+  <emp_lname>Litton</emp_lname>
+  <dept_id>300</dept_id>
+  <street>17 Downing Street</street>
+  <city>Concord</city>
+  <state>MA</state>
+  <zip_code>01742</zip_code>
+  <phone>5085553495</phone>
+  <status>A</status>
+  <ss_number>034786565</ss_number>
+  <salary>58930</salary>
+  <start_date>2014-10-05 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1969-04-05 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1446</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Caroline</emp_fname>
+  <emp_lname>Yeung</emp_lname>
+  <dept_id>200</dept_id>
+  <street>52 Cypress Street</street>
+  <city>Atlanta</city>
+  <state>GA</state>
+  <zip_code>30339</zip_code>
+  <phone>4045558347</phone>
+  <status>A</status>
+  <ss_number>038475825</ss_number>
+  <salary>32300</salary>
+  <start_date>2015-04-29 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1992-06-21 00:00:00</birth_date>
+  <bene_health_ins>N</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1483</emp_id>
+  <manager_id>1293</manager_id>
+  <emp_fname>John</emp_fname>
+  <emp_lname>Letiecq</emp_lname>
+  <dept_id>300</dept_id>
+  <street>149 Vista Drive</street>
+  <city>Burlington</city>
+  <state>MA</state>
+  <zip_code>01803</zip_code>
+  <phone>6175551167</phone>
+  <status>L</status>
+  <ss_number>079372285</ss_number>
+  <salary>75400</salary>
+  <start_date>2015-08-30 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1960-04-27 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1507</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Ruth</emp_fname>
+  <emp_lname>Wetherby</emp_lname>
+  <dept_id>400</dept_id>
+  <street>82 Aberdeen Road</street>
+  <city>Needham</city>
+  <state>MA</state>
+  <zip_code>02192</zip_code>
+  <phone>6175555465</phone>
+  <status>A</status>
+  <ss_number>035673688</ss_number>
+  <salary>35745</salary>
+  <start_date>2015-10-11 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1980-07-19 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1570</emp_id>
+  <manager_id>703</manager_id>
+  <emp_fname>Anthony</emp_fname>
+  <emp_lname>Rebeiro</emp_lname>
+  <dept_id>500</dept_id>
+  <street>39 Moody Street</street>
+  <city>Waltham</city>
+  <state>MA</state>
+  <zip_code>02154</zip_code>
+  <phone>6175555737</phone>
+  <status>A</status>
+  <ss_number>034576347</ss_number>
+  <salary>34576</salary>
+  <start_date>2015-11-27 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1984-04-12 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1576</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Scott</emp_fname>
+  <emp_lname>Evans</emp_lname>
+  <dept_id>400</dept_id>
+  <street>10-A Sunrise Circle</street>
+  <city>Concord</city>
+  <state>MA</state>
+  <zip_code>01742</zip_code>
+  <phone>5085550096</phone>
+  <status>A</status>
+  <ss_number>017429926</ss_number>
+  <salary>68940</salary>
+  <start_date>2015-12-30 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1981-11-15 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1596</emp_id>
+  <manager_id>902</manager_id>
+  <emp_fname>Catherine</emp_fname>
+  <emp_lname>Pickett</emp_lname>
+  <dept_id>200</dept_id>
+  <street>45 Appleton Road</street>
+  <city>Bedford</city>
+  <state>MA</state>
+  <zip_code>01730</zip_code>
+  <phone>6175553478</phone>
+  <status>A</status>
+  <ss_number>028375086</ss_number>
+  <salary>47653</salary>
+  <start_date>2016-02-10 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1980-11-18 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1607</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Mark</emp_fname>
+  <emp_lname>Morris</emp_lname>
+  <dept_id>400</dept_id>
+  <street>1 Example Way</street>
+  <city>Waltham</city>
+  <state>MA</state>
+  <zip_code>02154</zip_code>
+  <phone>6175558344</phone>
+  <status>A</status>
+  <ss_number>501787474</ss_number>
+  <salary>61300</salary>
+  <start_date>2016-04-13 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1962-01-08 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1615</emp_id>
+  <manager_id>703</manager_id>
+  <emp_fname>Sheila</emp_fname>
+  <emp_lname>Romero</emp_lname>
+  <dept_id>500</dept_id>
+  <street>1 Oakview Terrace</street>
+  <city>Bedford</city>
+  <state>MA</state>
+  <zip_code>01730</zip_code>
+  <phone>6175558138</phone>
+  <status>A</status>
+  <ss_number>501175874</ss_number>
+  <salary>27500</salary>
+  <start_date>2016-05-20 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1993-09-12 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>Y</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1643</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Elizabeth</emp_fname>
+  <emp_lname>Lambert</emp_lname>
+  <dept_id>400</dept_id>
+  <street>29 Union Street</street>
+  <city>Burlington</city>
+  <state>MA</state>
+  <zip_code>01803</zip_code>
+  <phone>6175552357</phone>
+  <status>A</status>
+  <ss_number>023857807</ss_number>
+  <salary>29384</salary>
+  <start_date>2016-06-15 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1989-09-12 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1658</emp_id>
+  <manager_id>703</manager_id>
+  <emp_fname>Michael</emp_fname>
+  <emp_lname>Lynch</emp_lname>
+  <dept_id>500</dept_id>
+  <street>76 Brookside Road</street>
+  <city>Waltham</city>
+  <state>MA</state>
+  <zip_code>02154</zip_code>
+  <phone>6175558348</phone>
+  <status>A</status>
+  <ss_number>023850840</ss_number>
+  <salary>24903</salary>
+  <start_date>2016-08-28 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1994-01-18 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1684</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Janet</emp_fname>
+  <emp_lname>Hildebrand</emp_lname>
+  <dept_id>400</dept_id>
+  <street>47 Hilltop Street</street>
+  <city>Waltham</city>
+  <state>MA</state>
+  <zip_code>02154</zip_code>
+  <phone>6175553845</phone>
+  <status>A</status>
+  <ss_number>038957036</ss_number>
+  <salary>45829</salary>
+  <start_date>2016-09-13 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1976-10-31 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>F</sex>
+</row>
+<row>
+  <emp_id>1740</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Robert</emp_fname>
+  <emp_lname>Nielsen</emp_lname>
+  <dept_id>400</dept_id>
+  <street>55 Sargent Avenue</street>
+  <city>Bedford</city>
+  <state>MA</state>
+  <zip_code>01730</zip_code>
+  <phone>6175558757</phone>
+  <status>A</status>
+  <ss_number>037534650</ss_number>
+  <salary>34889</salary>
+  <start_date>2016-12-23 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1986-06-19 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1751</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Alex</emp_fname>
+  <emp_lname>Ahmed</emp_lname>
+  <dept_id>400</dept_id>
+  <street>114 Cushing Street</street>
+  <city>Needham</city>
+  <state>MA</state>
+  <zip_code>02192</zip_code>
+  <phone>6175558748</phone>
+  <status>A</status>
+  <ss_number>032547384</ss_number>
+  <salary>34992</salary>
+  <start_date>2017-01-10 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1984-12-12 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+<row>
+  <emp_id>1800</emp_id>
+  <manager_id>1576</manager_id>
+  <emp_fname>Theo</emp_fname>
+  <emp_lname>Bakker</emp_lname>
+  <dept_id>null</dept_id>
+  <street>76 Example way</street>
+  <city>Waltham</city>
+  <state>MA</state>
+  <zip_code>02156</zip_code>
+  <phone>null</phone>
+  <status>A</status>
+  <ss_number>050897864</ss_number>
+  <salary>32900</salary>
+  <start_date>2017-05-11 00:00:00</start_date>
+  <termination_date>null</termination_date>
+  <birth_date>1987-11-11 00:00:00</birth_date>
+  <bene_health_ins>Y</bene_health_ins>
+  <bene_life_ins>Y</bene_life_ins>
+  <bene_day_care>N</bene_day_care>
+  <sex>M</sex>
+</row>
+</data>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <job_number>1</job_number>
+  <job_id>ST_CLERK</job_id>
+  <job_title>Stock Clerk</job_title>
+  <min_salary>2000</min_salary>
+  <max_salary>5000</max_salary>
+</row>
+<row>
+  <job_number>2</job_number>
+  <job_id>PU_CLERK</job_id>
+  <job_title>Purchasing Clerk</job_title>
+  <min_salary>2500</min_salary>
+  <max_salary>5500</max_salary>
+</row>
+<row>
+  <job_number>3</job_number>
+  <job_id>SH_CLERK</job_id>
+  <job_title>Shipping Clerk</job_title>
+  <min_salary>2500</min_salary>
+  <max_salary>5500</max_salary>
+</row>
+<row>
+  <job_number>4</job_number>
+  <job_id>AD_ASST</job_id>
+  <job_title>Administration Assistant</job_title>
+  <min_salary>3000</min_salary>
+  <max_salary>6000</max_salary>
+</row>
+<row>
+  <job_number>5</job_number>
+  <job_id>HR_REP</job_id>
+  <job_title>Human Resources Representative</job_title>
+  <min_salary>4000</min_salary>
+  <max_salary>9000</max_salary>
+</row>
+<row>
+  <job_number>6</job_number>
+  <job_id>MK_REP</job_id>
+  <job_title>Marketing Representative</job_title>
+  <min_salary>4000</min_salary>
+  <max_salary>9000</max_salary>
+</row>
+<row>
+  <job_number>7</job_number>
+  <job_id>IT_PROG</job_id>
+  <job_title>Programmer</job_title>
+  <min_salary>4000</min_salary>
+  <max_salary>10000</max_salary>
+</row>
+<row>
+  <job_number>8</job_number>
+  <job_id>FI_ACCOUNT</job_id>
+  <job_title>Accountant</job_title>
+  <min_salary>4200</min_salary>
+  <max_salary>9000</max_salary>
+</row>
+<row>
+  <job_number>9</job_number>
+  <job_id>SA_CLERK</job_id>
+  <job_title>Sales Clerk</job_title>
+  <min_salary>4200</min_salary>
+  <max_salary>9000</max_salary>
+</row>
+<row>
+  <job_number>10</job_number>
+  <job_id>PR_REP</job_id>
+  <job_title>Public Relations Representative</job_title>
+  <min_salary>4500</min_salary>
+  <max_salary>10500</max_salary>
+</row>
+<row>
+  <job_number>11</job_number>
+  <job_id>ST_MAN</job_id>
+  <job_title>Stock Manager</job_title>
+  <min_salary>4800</min_salary>
+  <max_salary>8500</max_salary>
+</row>
+<row>
+  <job_number>12</job_number>
+  <job_id>SA_REP</job_id>
+  <job_title>Sales Representative</job_title>
+  <min_salary>5000</min_salary>
+  <max_salary>12000</max_salary>
+</row>
+<row>
+  <job_number>13</job_number>
+  <job_id>PU_MAN</job_id>
+  <job_title>Purchasing Manager</job_title>
+  <min_salary>5200</min_salary>
+  <max_salary>15000</max_salary>
+</row>
+<row>
+  <job_number>14</job_number>
+  <job_id>AC_MGR</job_id>
+  <job_title>Accounting Manager</job_title>
+  <min_salary>5500</min_salary>
+  <max_salary>16000</max_salary>
+</row>
+<row>
+  <job_number>15</job_number>
+  <job_id>FI_MGR</job_id>
+  <job_title>Finance Manager</job_title>
+  <min_salary>8200</min_salary>
+  <max_salary>16000</max_salary>
+</row>
+<row>
+  <job_number>16</job_number>
+  <job_id>MK_MAN</job_id>
+  <job_title>Marketing Manager</job_title>
+  <min_salary>5500</min_salary>
+  <max_salary>15000</max_salary>
+</row>
+<row>
+  <job_number>17</job_number>
+  <job_id>SA_MAN</job_id>
+  <job_title>Sales Manager</job_title>
+  <min_salary>6000</min_salary>
+  <max_salary>20000</max_salary>
+</row>
+<row>
+  <job_number>18</job_number>
+  <job_id>AD_VP</job_id>
+  <job_title>Administration Vice President</job_title>
+  <min_salary>15000</min_salary>
+  <max_salary>30000</max_salary>
+</row>
+<row>
+  <job_number>19</job_number>
+  <job_id>AD_PRES</job_id>
+  <job_title>President</job_title>
+  <min_salary>20000</min_salary>
+  <max_salary>40000</max_salary>
+</row>
+<row>
+  <job_number>20</job_number>
+  <job_id>SA_ASST</job_id>
+  <job_title>Sales Assistant</job_title>
+  <min_salary>2500</min_salary>
+  <max_salary>5500</max_salary>
+</row>
+</data>
