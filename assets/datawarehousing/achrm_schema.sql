@@ -1,51 +1,47 @@
-create table job
-(
-    job_number int,
-    job_id     varchar(255),
-    job_title  varchar(255),
-     min_salary decimal,
-    max_salary decimal,
-    constraint job_pk primary key(job_number)
+CREATE TABLE job (
+    job_number INT,
+    job_id     VARCHAR(255),
+    job_title  VARCHAR(255),
+    min_salary DECIMAL,
+    max_salary DECIMAL,
+    CONSTRAINT job_pk PRIMARY KEY(job_number)
 );
 
-
-create table department
-(
-    dept_id      int,
-    dept_name    varchar(255),
-    dept_head_id int,
-    constraint dept_pk primary key(dept_id)
+CREATE TABLE department (
+    dept_id      INT,
+    dept_name    VARCHAR(255),
+    dept_head_id INT,
+    CONSTRAINT dept_pk PRIMARY KEY(dept_id)
 );
 
-create table employee
-(
-    emp_id           int           not null primary key,
-    manager_id       int           null,
-    emp_fname        varchar(255)  null,
-    emp_lname        varchar(255)  null,
-    dept_id          int           null,
-    street           varchar(255)  null,
-    city             varchar(255)  null,
-    state            varchar(255)  null,
-    zip_code         varchar(255)  null,
-    phone            varchar(255)  null,
-    status           varchar(255)  null,
-    ss_number        varchar(255)  null,
-    salary           double(15, 5) null,
-    start_date       datetime      null,
-    termination_date varchar(255)  null,
-    birth_date       datetime      null,
-    bene_health_ins  varchar(255)  null,
-    bene_life_ins    varchar(255)  null,
-    bene_day_care    varchar(255)  null,
-    sex              varchar(255)  null,
-    constraint empl_dept_fk
-        foreign key (dept_id) references department (dept_id)
+CREATE TABLE employee (
+    emp_id           INT           NOT NULL,
+    manager_id       INT           NULL,
+    emp_fname        VARCHAR(255)  NULL,
+    emp_lname        VARCHAR(255)  NULL,
+    dept_id          INT           NULL,
+    street           VARCHAR(255)  NULL,
+    city             VARCHAR(255)  NULL,
+    state            VARCHAR(255)  NULL,
+    zip_code         VARCHAR(255)  NULL,
+    phone            VARCHAR(255)  NULL,
+    status           VARCHAR(255)  NULL,
+    ss_number        VARCHAR(255)  NULL,
+    salary           DOUBLE(15, 5) NULL,
+    start_date       DATETIME      NULL,
+    termination_date VARCHAR(255)  NULL,
+    birth_date       DATETIME      NULL,
+    bene_health_ins  VARCHAR(255)  NULL,
+    bene_life_ins    VARCHAR(255)  NULL,
+    bene_day_care    VARCHAR(255)  NULL,
+    sex              VARCHAR(255)  NULL,
+    CONSTRAINT empl_pk PRIMARY KEY (emp_id),
+    CONSTRAINT empl_dept_fk FOREIGN KEY (dept_id) REFERENCES department (dept_id)
 );
 
-create table bonus (
-    emp_id	int,
-    bonus_date datetime ,
-    bonus_amount decimal,
-    constraint bonus_pk primary key(emp_id,bonus_date)
+CREATE TABLE bonus (
+    emp_id	     INT,
+    bonus_date   DATETIME,
+    bonus_amount DECIMAL,
+    CONSTRAINT bonus_pk PRIMARY KEY(emp_id,bonus_date)
 );
